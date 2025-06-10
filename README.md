@@ -1,6 +1,6 @@
 # xlibre-nvidea-guide-installation 
 
-Here’s a comprehensive guide to installing **XLibre** (a fork of Xorg) alongside proprietary NVIDIA drivers, tailored for an advanced Linux user like yourself:
+Here’s a comprehensive guide to installing **XLibre** (a fork of Xorg) alongside proprietary NVIDIA drivers, tailored for an advanced Linux users:
 
 ---
 
